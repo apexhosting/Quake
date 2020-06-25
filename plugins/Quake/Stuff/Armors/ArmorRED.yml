@@ -1,0 +1,17 @@
+Implementation: ArmorCustomFile
+Price: 100
+Name: ArmorRED
+Material:
+  ==: org.bukkit.inventory.ItemStack
+  type: LEATHER_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: LEATHER_ARMOR
+    display-name: §cArmorRED
+    lore:
+    - §rA beautiful leather dress!
+    color:
+      ==: Color
+      RED: 255
+      BLUE: 0
+      GREEN: 0

@@ -1,0 +1,8 @@
+welcome:
+  location: world, -1087.280, 20.700, 1335.440
+  lines:
+  - 'ICON: diamond_hoe'
+  - ''
+  - '&3&lWelcome {player}' 
+  - '&2&lJoin a map by clicking the sign' 
+  - '&5&lOne Hit One Kill Mode' 

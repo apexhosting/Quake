@@ -1,0 +1,31 @@
+Version: 3.1.0
+Name: Demonic
+Type: Solo
+Map: Demonic
+Active: true
+Natural-Death: false
+Auto-Respawn: false
+VIP: false
+Goal: 25
+Time-Before: 30
+Time-After: 15
+Coins-per-Win: 20
+Coins-per-Kill: 1
+VIP-Multiplicator: 2
+VIP+-Multiplicator: 3
+Global-Chat: false
+Potions:
+- SPEED:2
+- JUMP:1
+MaxPlayers: 30
+MinPlayers: 2
+Sneak: true
+Spawns:
+- Demonic, -2372.3580088517424, 19.0, 757.295896263227, 137.70047, -3.450059
+- Demonic, -2371.718908404083, 19.0, 736.4606900908251, 93.15052, 12.600085
+- Demonic, -2372.6354916631885, 19.0, 723.7970111990861, 88.19975, 6.000119
+- Demonic, -2383.035803656363, 8.0, 753.0990498412386, 92.850174, 9.150479
+- Demonic, -2430.271795573944, 18.0, 709.3898510832237, 320.55463, 11.999682
+- Demonic, -2406.240469449066, 18.0, 709.9278116167575, 33.00116, 6.749622
+- Demonic, -2406.889172387724, 8.0, 708.0549210794707, 0.1609497, 11.249657
+- Demonic, -2430.1418456299198, 14.0, 744.2380508206196, 359.71106, 10.499624

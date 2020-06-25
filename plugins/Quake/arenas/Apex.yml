@@ -1,0 +1,28 @@
+Version: 3.1.0
+Name: Apex
+Type: Team
+Map: Apex
+Active: true
+Natural-Death: false
+Auto-Respawn: true
+VIP: false
+Goal: 25
+Time-Before: 30
+Time-After: 15
+Coins-per-Win: 20
+Coins-per-Kill: 1
+VIP-Multiplicator: 2.0
+VIP+-Multiplicator: 3.0
+Global-Chat: false
+Potions:
+- SPEED:2
+- JUMP:1
+MaxPlayers: 15
+MinPlayers: 2
+Sneak: true
+Spawns_B:
+- Apex, -2368.6086366058103, 34.0, 725.0360099349444, -265.6471, 4.2001653
+- Apex, -2391.5179067074937, 41.0, 713.5028138390467, -88.80194, -4.0501137
+Spawns_R:
+- Apex, -2420.435588065905, 28.0, 734.2030789913945, -82.79977, 4.2000384
+- Apex, -2444.2186815454847, 33.0, 745.85918698449, -76.95007, -3.8999825

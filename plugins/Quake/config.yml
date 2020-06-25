@@ -1,0 +1,9 @@
+debug: false
+useVault: true
+shop:
+  id: EMERALD
+  world:
+  - world
+ScoreBoard:
+  world:
+  - world

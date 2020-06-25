@@ -1,0 +1,35 @@
+groups:
+  Member:
+    options:
+      default: true
+      prefix: '&b'
+    permissions:
+    - -minecraft.command.me
+    - -bukkit.command.plugins
+    - -bukkit.command.version
+    - Quake.Shop
+    - modifyworld.*
+    - Quake.player
+  Vip:
+    options:
+      prefix: '&5&l[&5Vip&5&l]&5'
+    permissions:
+    - Quake.VIP
+  Mod:
+    options:
+      prefix: '&3&l[&3Mod&3&l]&3'
+    permissions:
+    - Quake.modo
+  Admin:
+    permissions:
+    - Quake.admin
+    - '*'
+    options:
+      prefix: '&c&l[&cAdmin&c&l]&c'
+schema-version: 1
+users:
+  c0a68af6-e4ee-4b2b-b6bd-4287d97f0755:
+    group:
+    - Admin
+    options:
+      name: robert_beckley
